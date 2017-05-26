@@ -11,16 +11,22 @@ Alma has new releases that come out monthly. New and/or improved features are ad
 
 ### Quarterly: 
 * Compare EBSCO eBook databases new title lists with the title list we currently have in Alma. Find titles that have been deleted by EBSCO, and make changes in Alma. 
+* Update expiry and purge dates in the employee and student extract scripts (LG301R and LG321R)
+* Update institutional calendar in Alma with upcoming planned closed dates, review for changes in hours, etc 
+* Review work-study student roles and privileges in Alma; ensure that students no longer on staff have roles and privileges removed
 * Run Jobs in Alma for the following:
     * Expired patrons
     * Patron purge dates
     * Expired Reserve lists
+* Course Reserves Management    
 
 ### As needed: 
 * When we subscribe to new electronic databases or choose not to subscribe to new databases, there is work that needs to be done in Alma and PCI (These tasks are done by the sys admin). 
 * The database either needs to be activated, if it is found in the community zone, or de-activated if it is no longer available. 
 * Information needs to be added to the configuration of the electronic database in Alma.  
 * If the new electronic database is not found in the CZ, then work needs to be done in the PCI, to activate alternative coverage, if it is available for that particular database. All electronic databases require activation or deactivation in PCI.  
+* Purge expired patrons (perhaps annually)
+* Make sure new employees subscribe to Alma-L, Primo-L, wactclc-alma, wactclc-primo, as appropriate
 		
 ## Primo Maintenance: 
 ### Weekly: 
