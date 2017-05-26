@@ -12,9 +12,9 @@ Alma has new releases that come out monthly. New and/or improved features are ad
 ### Quarterly: 
 - Compare EBSCO eBook databases new title lists with the title list we currently have in Alma. Find titles that have been deleted by EBSCO, and make changes in Alma. 
 - Run Jobs in Alma for the following:
-...- Expired patrons
-...- Patron purge dates
-...- Expired Reserve lists
+... - Expired patrons
+... - Patron purge dates
+... - Expired Reserve lists
 
 ### As needed: 
 When we subscribe to new electronic databases or choose not to subscribe to new databases, there is work that needs to be done in Alma and PCI (These tasks are done by the sys admin). 
