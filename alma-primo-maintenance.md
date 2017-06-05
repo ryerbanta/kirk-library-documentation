@@ -10,6 +10,7 @@ CZ (Community Zone):
 Alma has new releases that come out monthly. New and/or improved features are added. It is my responsibility to keep up with these changes and train/work with staff, if it is something there is something new that is part of their workflow. 
 
 ### Quarterly: 
+* Review and update end-of-terms dates on institutional calendar
 * Compare EBSCO eBook databases new title lists with the title list we currently have in Alma. Find titles that have been deleted by EBSCO, and make changes in Alma. 
 * Update expiry and purge dates in the employee and student extract scripts (LG301R and LG321R)
 * Update institutional calendar in Alma with upcoming planned closed dates, review for changes in hours, etc 
